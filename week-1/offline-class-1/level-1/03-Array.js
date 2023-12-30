@@ -5,7 +5,7 @@
 
 // Run each function to see the output, play and learn by doing.
 
-// push()
+// push() pushes an element at last index
 function pushExample(arr, element) {
   console.log("Original Array:", arr);
 
@@ -14,7 +14,7 @@ function pushExample(arr, element) {
 }
 pushExample([1, 2, 3], 4);
 
-// pop()
+// pop() pops an element of last index
 function popExample(arr) {
   console.log("Original Array:", arr);
 
